@@ -1,6 +1,4 @@
-// Replace these sample values before publishing.
-// Use contact details approved and supervised by a parent or guardian.
+// Public contact information for the Research-Bridge website.
 window.RESEARCHBRIDGE_CONFIG = {
-  email: "YOUR_EMAIL@example.com",
-  whatsappNumber: "910000000000" // Country code + number, digits only. Example format: 91XXXXXXXXXX
+  email: "dinkardeepak980@gmail.com"
 };
