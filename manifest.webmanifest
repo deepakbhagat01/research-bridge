@@ -1,7 +1,7 @@
 {
-  "name": "ResearchBridge",
-  "short_name": "ResearchBridge",
-  "description": "Research coordination for businesses and independent researchers.",
+  "name": "Research-Bridge",
+  "short_name": "Research-Bridge",
+  "description": "Connecting people and organisations with independent professionals and project support.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
